@@ -1,6 +1,6 @@
 
 
-const URL = "https://atombomben.dk/CA1/api/people/";
+const URL = "https://atombomben.dk/tomcat/CA1/api/people/";
 
 function handleHttpErrors(res) {
   if (!res.ok) {
